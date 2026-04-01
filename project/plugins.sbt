@@ -26,7 +26,7 @@ addSbtPlugin("com.github.sbt" % "sbt-github-actions" % "0.29.0")
 addSbtPlugin("com.eed3si9n" % "sbt-projectmatrix" % "0.11.0")
 
 // https://github.com/indoorvivants/sbt-commandmatrix
-addSbtPlugin("com.indoorvivants" % "sbt-commandmatrix" % "0.0.5")
+addSbtPlugin("com.indoorvivants" % "sbt-commandmatrix" % "0.1.0")
 
 // https://github.com/JetBrains/sbt-ide-settings
 // see why here: https://stackoverflow.com/questions/74340971/how-to-configure-intellij-to-manage-different-scala-versions
